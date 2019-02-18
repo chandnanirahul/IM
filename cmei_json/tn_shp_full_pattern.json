@@ -1,0 +1,415 @@
+{
+    "meta": {
+        "cocode": "72607",
+        "ext-datetime": "2019-02-13 09:52:13",
+        "url_template": "tn_shp_full_pattern",
+        "col_header": [
+            "",
+            "Shares Held",
+            "Shares Held",
+            "Demat shares",
+            "Holders",
+            "Pledged shares",
+            "Pledged shares"
+        ],
+        "indic_in_row": [
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        "datatype": [
+            "T",
+            "N",
+            "N",
+            "N",
+            "N",
+            "T",
+            "T"
+        ],
+        "coname": "Federal Bank Ltd.",
+        "report_title": "Ownership of Equity Shares & Number of Owners : 31 Dec 2018",
+        "no_of_rows": 38,
+        "no_of_cols": 7,
+        "ext-code": 0,
+        "ext-status": "Successful"
+    },
+    "data": [
+        [
+            "NA",
+            "(Nos.)",
+            "(% of Total)",
+            "(Nos.)",
+            "(Nos.)",
+            "(Nos.)",
+            "(% of Holding)"
+        ],
+        [
+            "    Total",
+            "1,983,905,295",
+            "100.00",
+            "1,957,562,016",
+            "333,475",
+            "NA",
+            "NA"
+        ],
+        [
+            "        Promoters",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "            Indian",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Individuals & HUF",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Central & State Govt.",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Corporate Bodies",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "                FIs & Banks",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Others",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "            Foreign",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Individuals(NRIs)",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Corporate Bodies",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Institutions",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Qualified Foreign Investor",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Others",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "            Persons acting in concert",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "        Non-promoters",
+            "1,953,435,956",
+            "100.00",
+            "1,927,092,677",
+            "333,474",
+            "NA",
+            "NA"
+        ],
+        [
+            "            Institutions",
+            "1,341,121,573",
+            "68.65",
+            "1,340,747,823",
+            "318",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Mutual Funds\/UTI",
+            "445,895,149",
+            "22.83",
+            "445,820,399",
+            "45",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Banks, FIs,Insurance Cos.",
+            "129,877,071",
+            "6.65",
+            "129,781,571",
+            "30",
+            "NA",
+            "NA"
+        ],
+        [
+            "                    Insurance Companies",
+            "79,020,122",
+            "4.05",
+            "79,020,122",
+            "13",
+            "NA",
+            "NA"
+        ],
+        [
+            "                    Financial Institutions & Banks",
+            "50,856,939",
+            "2.60",
+            "50,761,439",
+            "16",
+            "NA",
+            "NA"
+        ],
+        [
+            "                    Central & State Government",
+            "10",
+            "NA",
+            "10",
+            "1",
+            "NA",
+            "NA"
+        ],
+        [
+            "                FIIs",
+            "756,215,325",
+            "38.71",
+            "756,011,825",
+            "236",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Venture Capital Funds",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Foreign Venture Capital",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Qualified Foreign Investor",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Others",
+            "9,134,038",
+            "0.47",
+            "9,134,038",
+            "8",
+            "NA",
+            "NA"
+        ],
+        [
+            "            Non-institutions",
+            "612,314,373",
+            "31.35",
+            "586,344,844",
+            "333,155",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Corporate Bodies",
+            "40,667,322",
+            "2.08",
+            "40,366,002",
+            "1,895",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Individuals",
+            "542,113,869",
+            "27.75",
+            "516,504,460",
+            "330,829",
+            "NA",
+            "NA"
+        ],
+        [
+            "                    Nominal invest. upto Rs. 1 lakh",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "                    Nominal invest. over Rs. 1 lakh",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Qualified Foreign Investor",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "                Others",
+            "29,533,182",
+            "1.51",
+            "29,474,382",
+            "431",
+            "NA",
+            "NA"
+        ],
+        [
+            "        Shares held by Custodians",
+            "30,469,339",
+            "NA",
+            "30,469,339",
+            "1",
+            "NA",
+            "NA"
+        ],
+        [
+            "            Promoters",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        [
+            "            Non-promoters",
+            "30,469,339",
+            "NA",
+            "30,469,339",
+            "1",
+            "NA",
+            "NA"
+        ]
+    ]
+}

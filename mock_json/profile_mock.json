@@ -1,0 +1,61 @@
+{
+    "data": {
+        "indiviuals": [
+            {
+                "profile_id": "11111",
+                "name": "nikhil singh",
+                "company": "Meru Cabs",
+                "top_connections": [
+                    "Minal",
+                    "Suresh"
+                ],
+                "designation": "Deputy Manager",
+                "profile_pic_url": "profile_pic_url"
+            },
+            {
+                "profile_id": "22222",
+                "name": "rakesh kapoor",
+                "company": "S-Ride",
+                "top_connections": [
+                    "Minal",
+                    "Suresh"
+                ],
+                "designation": "Executive Manager",
+                "profile_pic_url": "profile_pic_url"
+            },
+            {
+                "profile_id": "33333",
+                "name": "rajesh kumar",
+                "company": "Ambuja Group",
+                "top_connections": [
+                    "Akash",
+                    "Suresh"
+                ],
+                "designation": "General Manager",
+                "profile_pic_url": "profile_pic_url"
+            },
+            {
+                "profile_id": "44444",
+                "name": "nitin nayak",
+                "company": "Binani Cement Limited",
+                "top_connections": [
+                    "Akash",
+                    "Mohit"
+                ],
+                "designation": "Vice Chairman",
+                "profile_pic_url": "profile_pic_url"
+            }
+        ]
+    },
+    "messages": [
+        {
+            "msg": "...",
+            "code": "000"
+        },
+        {
+            "msg": "...",
+            "code": "001"
+        }
+    ],
+    "status": "active"
+}

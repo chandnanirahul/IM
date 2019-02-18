@@ -1,0 +1,47 @@
+{
+    "meta": {
+        "cocode": "72607",
+        "ext-datetime": "2019-02-13 09:52:23",
+        "url_template": "tn_nf_summary",
+        "col_header": [
+            ""
+        ],
+        "indic_in_row": [
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        "datatype": [
+            ""
+        ],
+        "coname": "",
+        "report_title": "|Record with 'repcode tn_nf_summary rep shade F_A' is not available in replist",
+        "no_of_rows": 6,
+        "no_of_cols": 1,
+        "ext-code": 0,
+        "ext-status": "Successful"
+    },
+    "data": [
+        [
+            "NA"
+        ],
+        [
+            "NA"
+        ],
+        [
+            "NA"
+        ],
+        [
+            "NA"
+        ],
+        [
+            "NA"
+        ],
+        [
+            "NA"
+        ]
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "meta": {
+        "cocode": "72607",
+        "ext-datetime": "2019-02-13 09:52:17",
+        "url_template": "tn_top_shareholders",
+        "col_header": [
+            "",
+            "31 Mar 2015",
+            "31 Mar 2016",
+            "31 Mar 2017"
+        ],
+        "indic_in_row": [
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA",
+            "NA"
+        ],
+        "datatype": [
+            "T",
+            "N",
+            "N",
+            "N"
+        ],
+        "coname": "Federal Bank Ltd.",
+        "report_title": "Top 10 Shareholders : 31 Mar 2015 - 31 Mar 2017 : No. of shares owned",
+        "no_of_rows": 18,
+        "no_of_cols": 4,
+        "ext-code": 0,
+        "ext-status": "Successful"
+    },
+    "data": [
+        [
+            "Amansa Capital Pte Ltd. A\/C  Amansa Holdings Pvt. Ltd.",
+            "0",
+            "NA",
+            "NA"
+        ],
+        [
+            "Amansa Holdings Pvt. Ltd.",
+            "25,056,956",
+            "73,816,854",
+            "73,000,000"
+        ],
+        [
+            "Bank Muscat S A O G A\/C Bankmuscat India Fund",
+            "NA",
+            "33,421,210",
+            "33,351,210"
+        ],
+        [
+            "Bank Muscat S A O G A\/C Bankmuscatindia Fund",
+            "16,677,605",
+            "NA",
+            "NA"
+        ],
+        [
+            "Deutsche Bank Trust Company Ameri-Cas",
+            "14,604,765",
+            "NA",
+            "NA"
+        ],
+        [
+            "Deutsche Bank Trust Company Americas",
+            "NA",
+            "28,049,968",
+            "31,205,861"
+        ],
+        [
+            "East Bridge Capital Master Fund Ltd.",
+            "NA",
+            "1,889,212",
+            "48,345,447"
+        ],
+        [
+            "Franklin Templeton Investment Funds",
+            "31,374,443",
+            "62,748,886",
+            "52,382,941"
+        ],
+        [
+            "General Insurance Corporation Of India",
+            "15,300,000",
+            "30,000,000",
+            "27,800,000"
+        ],
+        [
+            "Government Pension Fund Global",
+            "NA",
+            "NA",
+            "46,111,582"
+        ],
+        [
+            "International Finance Corporation",
+            "22,703,920",
+            "37,926,414",
+            "24,383,914"
+        ],
+        [
+            "Life Insurance Corporation Of India",
+            "18,967,380",
+            "37,934,760",
+            "37,934,760"
+        ],
+        [
+            "M\/S Napean Trading And Investment Co Pvt. Ltd.",
+            "3,615,717",
+            "NA",
+            "NA"
+        ],
+        [
+            "Mfs International New Discovery Fund",
+            "14,223,575",
+            "19,401,680",
+            "NA"
+        ],
+        [
+            "Morgan Stanley Mauritius Companylimited",
+            "0",
+            "NA",
+            "NA"
+        ],
+        [
+            "Prudential Asset Management (Singa-Pore)",
+            "0",
+            "NA",
+            "NA"
+        ],
+        [
+            "Warhol Ltd.",
+            "42,361,519",
+            "84,723,038",
+            "0"
+        ],
+        [
+            "Yusuffali Musaliam Veettil Abdul Kader",
+            "31,576,820",
+            "63,153,640",
+            "63,153,640"
+        ]
+    ]
+}

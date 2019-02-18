@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "cocode": "72607",
+        "ext-datetime": "2019-02-13 09:52:08",
+        "url_template": "tn_generic",
+        "col_header": [
+            "This report is NOT applicable for a Bank."
+        ],
+        "indic_in_row": [
+            "NA"
+        ],
+        "datatype": [
+            ""
+        ],
+        "coname": "Federal Bank Ltd.",
+        "report_title": "",
+        "no_of_rows": 1,
+        "no_of_cols": 1,
+        "ext-code": 0,
+        "ext-status": "Successful"
+    },
+    "data": [
+        [
+            "NA"
+        ]
+    ]
+}

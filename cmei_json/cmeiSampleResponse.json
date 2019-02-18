@@ -1,0 +1,268 @@
+{
+  "data": {
+    "dealDetails": {
+      "companyFinacialInfo": [
+        {
+          "data": {
+            "name": "REVENUE",
+            "currentYearMinus5": "NA",
+            "currentYearMinus3": "NA",
+            "currentYear": "NA",
+            "currentYearPlus3": "NA",
+            "currentYearPlus5": "NA"
+          },
+          "children": [
+            {
+              "data": {
+                "name": "% of Total Revenue",
+                "currentYearMinus5": "NA",
+                "currentYearMinus3": "NA",
+                "currentYear": "NA",
+                "currentYearPlus3": "NA",
+                "currentYearPlus5": "NA"
+              }
+            }
+          ]
+        },
+        {
+          "data": {
+            "name": "EBITDA",
+            "currentYearMinus5": "NA",
+            "currentYearMinus3": "NA",
+            "currentYear": "NA",
+            "currentYearPlus3": "NA",
+            "currentYearPlus5": "NA"
+          },
+          "children": [
+            {
+              "data": {
+                "name": "% of Total Revenue",
+                "currentYearMinus5": "NA",
+                "currentYearMinus3": "NA",
+                "currentYear": "NA",
+                "currentYearPlus3": "NA",
+                "currentYearPlus5": "NA"
+              }
+            }
+          ]
+        },
+        {
+          "data": {
+            "name": "EBIT",
+            "currentYearMinus5": "NA",
+            "currentYearMinus3": "NA",
+            "currentYear": "NA",
+            "currentYearPlus3": "NA",
+            "currentYearPlus5": "NA"
+          },
+          "children": [
+            {
+              "data": {
+                "name": "% of Total Revenue",
+                "currentYearMinus5": "NA",
+                "currentYearMinus3": "NA",
+                "currentYear": "NA",
+                "currentYearPlus3": "NA",
+                "currentYearPlus5": "NA"
+              }
+            }
+          ]
+        },
+        {
+          "data": {
+            "name": "PAT",
+            "currentYearMinus5": "NA",
+            "currentYearMinus3": "NA",
+            "currentYear": "NA",
+            "currentYearPlus3": "NA",
+            "currentYearPlus5": "NA"
+          },
+          "children": [
+            {
+              "data": {
+                "name": "% of Total Revenue",
+                "currentYearMinus5": "NA",
+                "currentYearMinus3": "NA",
+                "currentYear": "NA",
+                "currentYearPlus3": "NA",
+                "currentYearPlus5": "NA"
+              }
+            }
+          ]
+        },
+        {
+          "data": {
+            "name": "RoACE",
+            "currentYearMinus5": "NA",
+            "currentYearMinus3": "NA",
+            "currentYear": "NA",
+            "currentYearPlus3": "NA",
+            "currentYearPlus5": "NA"
+          },
+          "children": [
+            {
+              "data": {
+                "name": "% of Total Revenue",
+                "currentYearMinus5": "NA",
+                "currentYearMinus3": "NA",
+                "currentYear": "NA",
+                "currentYearPlus3": "NA",
+                "currentYearPlus5": "NA"
+              }
+            }
+          ]
+        },
+        {
+          "data": {
+            "name": "RoAE",
+            "currentYearMinus5": "NA",
+            "currentYearMinus3": "NA",
+            "currentYear": "NA",
+            "currentYearPlus3": "NA",
+            "currentYearPlus5": "NA"
+          },
+          "children": [
+            {
+              "data": {
+                "name": "% of Total Revenue",
+                "currentYearMinus5": "NA",
+                "currentYearMinus3": "NA",
+                "currentYear": "NA",
+                "currentYearPlus3": "NA",
+                "currentYearPlus5": "NA"
+              }
+            }
+          ]
+        },
+        {
+          "data": {
+            "name": "Working Capital Levels",
+            "currentYearMinus5": "NA",
+            "currentYearMinus3": "NA",
+            "currentYear": "NA",
+            "currentYearPlus3": "NA",
+            "currentYearPlus5": "NA"
+          },
+          "children": [
+            {
+              "data": {
+                "name": "% of Total Revenue",
+                "currentYearMinus5": "NA",
+                "currentYearMinus3": "NA",
+                "currentYear": "NA",
+                "currentYearPlus3": "NA",
+                "currentYearPlus5": "NA"
+              }
+            }
+          ]
+        }
+      ],
+      "projectManagement": null,
+      "notes": null,
+      "companyInfo": {
+        "companyDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac egestas tortor. Morbi at varius ex. Suspendisse mauris mauris, dapibus nec urna quis, mattis dignissim nulla. Nulla ac ante sit amet massa varius dignissim",
+        "ownership": "ownership",
+        "background": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac egestas tortor. Morbi at varius ex. Suspendisse mauris mauris, dapibus nec urna quis, mattis dignissim nulla. Nulla ac ante sit amet massa varius dignissim",
+        "companyName": "Meru Cabs",
+        "keyStakeholders": {
+          "keyStakeholder": [
+            {
+              "stakeholdername": "stakeholdername1",
+              "sharePercentage": "25"
+            },
+            {
+              "stakeholdername": "stakeholdername2",
+              "sharePercentage": "25"
+            },
+            {
+              "stakeholdername": "stakeholdername3",
+              "sharePercentage": "25"
+            },
+            {
+              "stakeholdername": "stakeholdername4",
+              "sharePercentage": "25"
+            }
+          ]
+        },
+        "promoters": "promoters",
+        "keyMngmntPersonal": {
+          "ownerName": [
+            "ownerName1",
+            "ownerName2",
+            "ownerName3",
+            "ownerName4"
+          ]
+        }
+      },
+      "probability": null,
+      "industryInfo": {
+        "competitorShare": [
+          {
+            "competitorName": "competitorName1",
+            "companyName": "companyName",
+            "sector": "sector",
+            "sharePrecent": "25"
+          },
+          {
+            "competitorName": "competitorName2",
+            "companyName": "companyName",
+            "sector": "sector",
+            "sharePrecent": "25"
+          },
+          {
+            "competitorName": "competitorName3",
+            "companyName": "companyName",
+            "sector": "sector",
+            "sharePrecent": "25"
+          },
+          {
+            "competitorName": "competitorName4",
+            "companyName": "companyName",
+            "sector": "sector",
+            "sharePrecent": "25"
+          }
+        ],
+        "industrySize": "500 mn",
+        "targetMarketSizePercent": "9",
+        "predicted3YearGrowthPercent": "21",
+        "predicted5YearGrowthPercent": "16",
+        "last3YearGrowthPercent": "19",
+        "last5YearGrowthPercent": "12"
+      },
+      "hypothesis": null,
+      "similarDeals": null,
+      "likeability": null,
+      "dealInfo": {
+        "dealId": "dealId",
+        "companyName": "companyName",
+        "dealSize": "",
+        "source": "",
+        "dealType": "dealType",
+        "dealOwner": "dealOwner",
+        "trueNorthName": "trueNorthName",
+        "dateOfCreation": "dateOfCreation",
+        "stake": "",
+        "companyID": "",
+        "size": "size",
+        "stage": "stage",
+        "segment": "segment",
+        "projectName": "projectName",
+        "sector": "Manaufacturing",
+        "subsector": "",
+        "sellingShareholders": "sellingShareholders",
+        "dealContract": "dealContract"
+      }
+    }
+  },
+  "messages": [
+    {
+      "msg": "msg",
+      "code": "code"
+    },
+    {
+      "msg": "msg",
+      "code": "code"
+    }
+  ],
+  "status": "status"
+}
